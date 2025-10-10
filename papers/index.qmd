@@ -1,0 +1,30 @@
+<html>
+<head><title>Papers</title></head>
+<body>
+    <h2>Papers</h2>
+    <h3>Journal</h3>
+    <p>Wu, C.\*, Jermakowicz, W. J. \*, <b>Chakravorti, S.</b> \*, Cajigas, I., Sharan, A. D., Jagid, J.R., . . . D’Haese, P.-F. (2019). Effects of surgical targeting in laser interstitial thermal therapy for mesial temporal lobe epilepsy : A multicenter study of 234 patients. Epilepsia, 60(6), 1171–1183. <a href="https://doi.org/10.1111/epi.15565" target="_blank">https://doi.org/10.1111/epi.15565</a> <i>(\*indicates co-first authors)</i></p>
+    
+    <p><b>Chakravorti, S.\*</b>, Noble, J. H.\*, Gifford, R. H., Dawant, B. M., O’Connell, B. P., Wang, J., & Labadie, R. F. (2019). Further Evidence of the Relationship Between Cochlear Implant Electrode Positioning and Hearing Outcomes. Otology & Neurotology, 40(5), 617–624. <a href="https://doi.org/10.1097/MAO.0000000000002204" target="_blank">https://doi.org/10.1097/MAO.0000000000002204</a> <i>(\*indicates co-first authors)</i></p>
+
+    <p><b>Chakravorti, S.</b>, Bussey, B. J., Zhao, Y., Dawant, B. M., Labadie, R. F., & Noble, J.H. (2017). Cochlear implant phantom for evaluating computed tomography acquisition parameters. Journal of Medical Imaging, 4(04), <a href="https://doi.org/10.1111/epi.15565" target="_blank">https://doi.org/10.1111/epi.15565</a></p>
+
+    <p>Zhao, Y., <b>Chakravorti, S.</b>, Dawant, B.M., & Noble, J.H. (2019). Automatic graph-based method for localization of cochlear implant electrode arrays in clinical CT with sub-voxel accuracy. Medical Image Analysis, 52, 1-12. <a href="https://doi.org/10.1016/j.media.2018.11.005" target="_blank">https://doi.org/10.1016/j.media.2018.11.005</a></p>
+
+    <p> González, H.F.J., <b>Chakravorti, S.</b>, Goodale, S.E., . . . Englot, D. J. (2019). Thalamic arousal network disturbances in temporal lobe epilepsy and improvement after surgery. Journal of Neurology, Neurosurgery & Psychiatry 2019;90:1109-1116. <a href="https://doi.org/10.1136/jnnp-2019-320748" target="_blank">https://doi.org/10.1136/jnnp-2019-320748</a></p>
+
+    <p>Banalagay, R. A.; Labadie, R. F.; <b>Chakravorti, S.</b>; Noble, J. H. (2020). Insertion Depth for Optimized Positioning of Precurved Cochlear Implant Electrodes. Otology & Neurotology: June 19, 2020; Volume Publish Ahead of Print – Issue – <a href="https://doi.org/10.1097/MAO.0000000000002726" target="_blank">https://doi.org/10.1097/MAO.0000000000002726</a></p>
+
+    <p>Petersen, K.J., Reid, J.A., <b>Chakravorti, S.</b>, Juttukonda, M.R., Franco, G., Trujillo, P., Stark, A.J., Dawant, B.M., Donahue, M.J., Claassen, D.O. (2018). Structural and functional connectivity of the nondecussating dentato-rubro-thalamic tract. NeuroImage, 176, 364-371. <a href="https://doi.org/10.1016/j.neuroimage.2018.04.074" target="_blank">https://doi.org/10.1016/j.neuroimage.2018.04.074</a></p>
+
+    <p>Hunter, J. B., O’Connell, B. P., Wang, J., <b>Chakravorti, S.</b>, Makowiec, K., Carlson, M. L., … Wanna, G. B. (2016). Correlation of Superior Canal Dehiscence Surface Area With Vestibular Evoked Myogenic Potentials, Audiometric Thresholds, and Dizziness Handicap. Otology & neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology, 37(8), 1104–1110. <a href="https://doi.org/10.1097/MAO.0000000000001126" target="_blank">https://doi.org/10.1097/MAO.0000000000001126</a></p>
+    
+    <h3>Conferences</h3>
+    <p><b>Chakravorti, S.</b>, Jermakowicz, W.J., Wu, C., Li, R., Wirz, R., Dawant, B.M., D’Haese, P.-F. (2019). Evaluation of nonrigid registration around the hippocampus for the construction of statistical maps in a multicenter dataset of epilepsy laser ablation patients. Proc. SPIE 10951, Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions, and Modeling, 109511J (8 March 2019); <a href="https://doi.org/10.1117/12.2512587" target="_blank">https://doi.org/10.1117/12.2512587</a></p>
+
+    <p><b>Chakravorti, S.</b>, Morgan, V.L., Trujillo, P., Wirz, R., Dawant, B.M. (2018). A structural connectivity approach to validate a model-based technique for the segmentation of the pulvinar complex. Proc. SPIE 10578, Medical Imaging 2018: Biomedical Applications in Molecular, Structural, and Functional Imaging, 105780T (12 March 2018); <a href="https://doi.org/10.1117/12.2293685" target="_blank">https://doi.org/10.1117/12.2293685</a></p>
+
+    <p><b>Chakravorti, S.</b>, Li, R., Rodriguez, W., Shults, R., Sharan, A., Englot, D.J., Konrad, P.E., D’Haese, P.-F., Dawant, B.M. (2018). Validation of an automatic algorithm to identify NeuroPace depth leads in CT images. Proc. SPIE 10951, Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions, and Modeling, 109512D (8 March 2019); <a href="https://doi.org/10.1117/12.2512580" target="_blank">https://doi.org/10.1117/12.2512580</a></p>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - cv.pdf
+
+website:
+  title: "Srijata Chakravorti"
+  site-url: https://srijatachakravorti.com
+  description: "Data Scientist | Machine Learning Engineer | Researcher"
+  open-graph:
+    locale: en_US
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Papers"
+        href: papers
+  page-footer:
+    left: ""
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
