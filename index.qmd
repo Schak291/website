@@ -3,19 +3,19 @@ title: "Srijata Chakravorti"
 image: IMG_0766.jpg
 about:
   template: trestles
-  image-width: 400px
+  image-width: 350px
   image-shape: round
   links:
-    - text: Google Scholar
+    - text: "{{< iconify fa6-brands google-scholar >}} Google Scholar"
       url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q14Bb68AAAAJ"
       target: "_blank"
-    - text: LinkedIn
+    - text: "{{< iconify fa6-brands linkedin >}} LinkedIn"
       url: "https://www.linkedin.com/in/srijatachakravorti/"
       target: "_blank"
-    - text: Researchgate
+    - text: "{{< iconify fa-brands researchgate >}} Researchgate"
       url: "https://www.researchgate.net/profile/Srijata-Chakravorti"
       target: "_blank"
-    - text: Email
+    - text: "{{< iconify fa-solid paper-plane >}} Email"
       url: "mailto:schak291+site@gmail.com"
 comments: false
 ---
@@ -31,7 +31,7 @@ Prior to working as a consultant, I got my PhD from Vanderbilt University, advis
 When I'm not trying to find patterns in data, I love to travel and hike. Getting out in nature is one of my favorite ways to spend a long weekend! On weekdays after work I can be generally found training in taekwondo.
 
 
-Here's a list of [my publications](papers) and [my CV](cv.pdf).
+Here's a list of my [publications](papers) and my [CV](cv.pdf).
 
 <p></p>
 
