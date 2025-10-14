@@ -1,0 +1,20 @@
+<html>
+<head><title>Media</title></head>
+<body>
+    <h2>Laser interstitial thermal therapy for Epilepsy</h2>
+    <h3>What’s the Right Amount of ‘Zapping’ in Epilepsy Laser Surgery?</h3>
+    <p>May 2019: <i>News media coverage for the work done in identifying optimal ablation zones for epilepsy treatment</i></p>
+    
+    <!-- the first 3 have the article reference-->
+    <a href="https://www.eurekalert.org/news-releases/801542" target="_blank">Eurekalert!</a></p> 
+    <a href="https://www.newswise.com/articles/what-s-the-right-amount-of-zapping-in-epilepsy-laser-surgery" target="_blank">Newswise (United States)</a></p>
+    <a href="https://www.jeffersonhealth.org/about-us/news/2019/05/laser-surgery-controls-epilepsy-seizures-with-fewer-side-effects" target="_blank">Jefferson Health</a></p>
+
+    <a href="https://www.cureepilepsy.org/news/whats-the-right-amount-of-zapping-in-epilepsy-laser-surgery/" target="_blank">Cure Epilepsy (United States)</a></p>
+    
+    <h3>Project Vault</h3>
+    
+    <p>Feb 2019: Here is a conversation with <a href="https://www.youtube.com/watch?v=DpbUqUD5ZtI" target="_blank">Vanderbilt University Project Vault</a> about one of my doctoral projects — improving surgical guidance used in epilepsy surgery.</p>
+   
+</body>
+</html>
