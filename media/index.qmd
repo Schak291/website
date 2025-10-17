@@ -1,3 +1,7 @@
+---
+title: "Srijata Chakravorti"
+layout: default
+---
 <html>
 <head><title>Media</title></head>
 <body>
