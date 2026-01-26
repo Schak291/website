@@ -6,8 +6,16 @@ layout: default
 <head><title>Media</title></head>
 <body>
     <h2>Laser interstitial thermal therapy for Epilepsy</h2>
+
+    <h3>Laser Therapy Reaches Hard-to-Treat Epilepsy</h3>
+    <p><i>2021: Discussion on LITT for epilepsy treatment</i></p>
+    
+    <!-- references our effects article-->
+    <a href="https://www.photonics.com/Articles/Laser-Therapy-Reaches-Hard-to-Treat-Epilepsy/a67454" target="_blank">Photonics Spectra</a></p> 
+    
+
     <h3>What’s the Right Amount of ‘Zapping’ in Epilepsy Laser Surgery?</h3>
-    <p>May 2019: <i>News media coverage for the work done in identifying optimal ablation zones for epilepsy treatment</i></p>
+    <p><i>May 2019: News media coverage for the work done in identifying optimal ablation zones for epilepsy treatment</i></p>
     
     <!-- the first 3 have the article reference-->
     <a href="https://www.eurekalert.org/news-releases/801542" target="_blank">Eurekalert!</a></p> 
@@ -18,7 +26,16 @@ layout: default
     
     <h3>Project Vault</h3>
     
-    <p>Feb 2019: Here is a conversation with <a href="https://www.youtube.com/watch?v=DpbUqUD5ZtI" target="_blank">Vanderbilt University Project Vault</a> about one of my doctoral projects — improving surgical guidance used in epilepsy surgery.</p>
+    <p><i>Feb 2019: Conversation with Vanderbilt University about my initial work in improving surgical guidance used in epilepsy surgery, one of key doctoral projects.</i></p>
+
+    <a href="https://www.youtube.com/watch?v=DpbUqUD5ZtI" target="_blank">VISE Project Vault — Srijata Chakravorti</a>
    
+    <h2>Cochlear Implant Positioning</h2>
+    <h3>20Q: Update on Cochlear Implants: Hearing Preservation, Single-Sided Deafness, and Personalized Fitting</h3>
+    <p><i>Aug 2023: Q&A format Discussion about cochlear implantation, references the use of our electrode localization algorithm in postoperative CT</i></p>
+
+    <!-- references our voxel localization method-->
+    <a href="https://www.audiologyonline.com/articles/20q-update-on-cochlear-implants-28633" target="_blank">Audiology Online</a></p> 
+
 </body>
 </html>
