@@ -1,5 +1,5 @@
 ---
-title: "Srijata Chakravorti"
+title: "Media Coverage"
 layout: default
 ---
 <html>
